@@ -367,11 +367,11 @@ text-align: center;
 color: #000000;
 ```
 ## OUTPUT:
-![OUTPUT](./Figma/out61.png)
+![OUTPUT](./out61.png)
 
-![OUTPUT](./Figma/out62.png)
+![OUTPUT](./out62.png)
 
-![OUTPUT](./Figma/out63.png)
+![OUTPUT](./out63.png)
 
 
 ## RESULT:
