@@ -373,6 +373,7 @@ color: #000000;
 
 ![OUTPUT](./out63.png)
 
+![OUTPUT](./P3.jpg)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
